@@ -33,7 +33,7 @@
     "friendly-errors-webpack-plugin": "^1.7.0",
     "fs-extra": "^7.0.0",
     "lodash.merge": "^4.6.1",
-    "portfinder": "^1.0.16",
+    "portfinder": "^1.0.19",
     "pumpify": "^1.5.1",
     "spectron": "^4.0.0",
     "split2": "^3.0.0",
